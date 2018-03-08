@@ -1,0 +1,7 @@
+---
+applications:
+- name: com.infosys
+  path: /target/infosys-assignment-1.0.war
+  domain: cfapps.io
+  memory: 1G
+  instances: 1

@@ -1,0 +1,6 @@
+projectKey=InfosysProject
+serverUrl=http://localhost:9000
+serverVersion=7.0.0.36138
+dashboardUrl=http://localhost:9000/dashboard/index/InfosysProject
+ceTaskId=AWHxGmzAisD6X2AaLMaU
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWHxGmzAisD6X2AaLMaU
